@@ -5,6 +5,7 @@
 
 import Foundation
 
-func chapterFive() {
+func chapterFive() {print("They all lived happily ever after")
+   //test of text
     // Your portion of the story goes here
 }
