@@ -5,9 +5,8 @@
 
 import Foundation
 
-//added halloween text
 
-func chapterOne
+func chapterOne() {
 
     
 print("""
@@ -23,10 +22,10 @@ print("""
    \\  \\ \\  \\ \\___ \\___ \\__\\ \\|  `\\ \\___ \\___ \\  `\\
 
 """)
-    print("Once upon a time there was a young woman")
-  
-
-    print("Once upon a time there was")
+//added Happy Halloween
+ 
+  print ("On a dark and stormy night there was a group of friends.")
+   
     //added text for the beginning
     // Your portion of the story goes here
     
