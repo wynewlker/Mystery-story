@@ -7,7 +7,7 @@ import Foundation
 
 var storyOpening = "On a dark and stormy night there was a group of friends."
 
-let setting1 = "woods."
+let setting1 = "woods"
 
 
 let character1 = "Tyshawn"
