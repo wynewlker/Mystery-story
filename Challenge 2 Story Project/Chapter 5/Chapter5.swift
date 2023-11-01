@@ -7,5 +7,9 @@ import Foundation
 
 func chapterFive() {
     
-    // Your portion of the story goes here
+    
+    func chapterFive() {print("They all lived happily ever after")
+        //test of text
+        // Your portion of the story goes here
+    }
 }
