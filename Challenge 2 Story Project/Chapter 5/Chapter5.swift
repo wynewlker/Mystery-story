@@ -3,6 +3,7 @@ import Foundation
 
 func chapterFive() {
     
+    
 var Person1 = "Calil"
 var Person2 = "Marshall"
 var Person3 = "Slim"
@@ -10,7 +11,7 @@ var yOrN = yesOrNo(userAnswer: true)
 var Answer: String = yesOrNo(userAnswer: Bool.random())
 
 func Intro() -> String {
-return "You Want to hear a story? \n Yes YOU \n Trust me, it will be a good one. \n Do you want to hear it or not?"}
+return "\n                          Chapter 5: Small towns \n\n                         You Want to hear a story? \n                                    Yes YOU \n                          Trust me, it will be a good one. \n                             Do you want to hear it or not?"}
 
 func yesOrNo(userAnswer: Bool) -> String {
     if userAnswer == true {
