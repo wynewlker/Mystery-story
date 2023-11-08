@@ -16,6 +16,7 @@ let character1 = "Tyshawn"
 let character2 = "Apollo"
 let monsterhybrid = "cowpigchicken"
 
+
 var animals = ["chickens","cows","pigs"]
 
 func chapterOne() {
@@ -49,7 +50,13 @@ func chapterOne() {
 
         print(storyOpening)
 
-        print("\(characters[0]) \(characters[1]) who were two brothers that inherited their families local farm as their parents died on Halloween night after working so much tending to the care of their care. Ever since they were little the two boys were used to herding the cows,the chickens, and the pigs to their respetive pens daily nonstop.")
+        print("\(characters[0]) \(characters[1]) who were two brothers that inherited their families local farm as their parents died on Halloween night after working so much tending to the animals they had on the farm. Ever since they were little the two boys were used to herding the animals on the farm to then put them in their respetive pens on the daily nonstop.")
+        print("They have to tend to: ")
+         let animals = ["Chickens", "Cows", "Pigs",]
+
+            for animal in animals {
+                print(animal)
+            }
         print("After finishing their daily farm work. They both then went to their rooms fell down on their beds exhausted from the amount of farmwork the two had to do and went soundly to sleep")
         print("Tyshawn and Apollo both then awoke from their deep slumber as they heard a loud screech. They then ran outside as fast as they could as to see which of the animals was disturbed. Both meeting at the same one of their cows was screaming in agony")
         print("")
@@ -57,13 +64,10 @@ func chapterOne() {
         let randomNumber: Int = .random(in: 0...5)
         func medical() {
             if randomNumber < 6{
-                 
                 print("That didnt take to long")
             }
             else {
-                
                 print("that took forever")
-                
             }
         }
         
