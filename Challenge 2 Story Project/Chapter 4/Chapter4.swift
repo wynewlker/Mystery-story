@@ -4,7 +4,6 @@
 //
 
 import Foundation
-import UIKit
 func investigateTheAttic(someoneInvestigatesUpStairs: Bool){
     if someoneInvestigatesUpStairs == true {
         print("They got Frightened.")
@@ -13,7 +12,7 @@ func investigateTheAttic(someoneInvestigatesUpStairs: Bool){
     }
 }
 
-var greeting = "A Spooky, playground"
+var greeting = "Noise In Attic"
 print ("In the abandoned attic, a solitary doll sat atop a dusty trunk. Its glassy eyes seemed to follow you, and its porcelain smile held a sinister secret. Every night, it would awaken, creeping silently through the darkened house. It whispered haunting lullabies that echoed through the halls. Its presence grew stronger, its intentions more malevolent. Soon, the doll's grip on the house tightened, ensnaring its victims in a web of terror. None dared enter, for the doll's curse was inescapable. ")
 investigateTheAttic(someoneInvestigatesUpStairs: true)
 var stormyWeather = ["Dark", "Windy", "Rainy"]
@@ -39,10 +38,4 @@ func timeOfDay(time: TimesOfTheDay){
     }
     
 }
-func chapterFour() {
-    
-    // Your portion of the story goes here
-    print("Test, Heres my input guys")
-    print("Can You hear me roar")
-    print("Test, Heres my input guys")
-}
+
