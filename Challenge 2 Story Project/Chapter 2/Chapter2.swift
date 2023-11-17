@@ -28,10 +28,12 @@ func chapterTwo(){
     }
         func family() {
             var murdered = "Brandon, Barry, Sheketa and Caroyln"
-            print ("His wife and children bodies have never been found and their fate is unknown, despite James confession.  He has not been convicted of any crime. Both Carylon and James worked as teachers before they disappeard. Two years prior in 1987 Mr. Brown was charged with physical abuse and sentenced to three years of probation after beating Sheketa for spending 10 cents of her school lunch money to purchase a pen.  That is the only domestic violence incident that was documented.  Although, there were rumors of Caroyln being beat on the daily basis. She was known to come to work with black eyes and bruises on her body. Their friends and family dared not discuss it.  They simply kept quiet.  Many now report they are worried because they have not heard from the children or their mother.")
+            print ("His wife and children bodies have never been found and their fate is unknown, despite James confession.  He has not been convicted of any crime. Both Carylon and James worked as teachers before they disappeard. Two years prior in 1987 Mr. Brown was charged with physical abuse and sentenced to three years of probation after beating Sheketa for spending 10 cents of her school lunch money to purchase a pen.  That is the only domestic violence incident that was documented.  Although, there were rumors of Caroyln being beat on the daily basis. She also was known to come to work with black eyes and bruises on her body. Their friends and family dared not discuss it.  James lost his job as a teacher because of his conviction for beating Sheketa. Many now report they are worried because they have not heard from the children or their mother.")
+            
             print("Five family members were missing originally, but now there is only four due to the return of Mr. Brown. The local police did not focus their time searching for the wife and children.  They believe she left her husband due to the domestic violence history on this case.")
-            // create integer type variable
+            // create integer type variablep--
             var number: Int = 5
+            
             print(number)
             // create float type variable
             let numberValue: Float = 5
